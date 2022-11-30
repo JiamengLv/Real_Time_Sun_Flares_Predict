@@ -1,0 +1,22 @@
+
+
+harp_num:8731
+
+time:2022.10.25_17:00_TAI_2022.10.26_00:00:00_TAI
+
+
+out_label:C,out_mean:1.6986314582824706,out_acc{'N': 0.0, 'C': 1.0, 'M': 0.0, 'X': 0.0}
+occurrence of solar flares--------------
+If you want to see the figure, please cilck here https://github.com/JiamengLv/Real_Time_Sun_Flares_Predict/tree/master/historyTime_out/2022_10_26_00_00_00_TAI
+
+
+out_label:C,out_mean:1.6504535937309266,out_acc{'N': 0.0, 'C': 1.0, 'M': 0.0, 'X': 0.0}
+
+
+out_label:C,out_mean:1.9119227027893066,out_acc{'N': 0.0, 'C': 1.0, 'M': 0.0, 'X': 0.0}
+
+
+out_label:C,out_mean:2.174611452817917,out_acc{'N': 0.0, 'C': 1.0, 'M': 0.0, 'X': 0.0}
+
+
+out_label:C,out_mean:1.553794289827347,out_acc{'N': 0.0, 'C': 1.0, 'M': 0.0, 'X': 0.0}

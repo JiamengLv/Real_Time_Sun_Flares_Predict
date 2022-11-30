@@ -1,0 +1,11 @@
+Random Seed:  8899
+=> use  gpu id: '1'
+Warning! Loading pre-trained weights.
+out_label:C,out_mean:1.6986314582824706,out_acc{'N': 0.0, 'C': 1.0, 'M': 0.0, 'X': 0.0}
+--Download_real_time_data:
+------------[8731][2022.10.24_23:00_TAI-2022.10.26_00:00:00_TAI]------------
+data_lengh:24
+out_label:C,out_mean:1.6504535937309266,out_acc{'N': 0.0, 'C': 1.0, 'M': 0.0, 'X': 0.0}
+out_label:C,out_mean:1.9119227027893066,out_acc{'N': 0.0, 'C': 1.0, 'M': 0.0, 'X': 0.0}
+out_label:C,out_mean:2.174611452817917,out_acc{'N': 0.0, 'C': 1.0, 'M': 0.0, 'X': 0.0}
+out_label:C,out_mean:1.553794289827347,out_acc{'N': 0.0, 'C': 1.0, 'M': 0.0, 'X': 0.0}
