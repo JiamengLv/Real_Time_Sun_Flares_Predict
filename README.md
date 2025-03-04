@@ -1,5 +1,6 @@
-# Real_Time_Sun_Flares_Predict
-Real_Time_Sun_Flares_Predict
+# Real_Time_Solar_Flares_Predict
+
+https://nadc.china-vo.org/flarecast/
 
 多波段（hmi,aia）太阳活动区的标准数据集制作：
      
